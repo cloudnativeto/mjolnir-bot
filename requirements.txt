@@ -1,0 +1,3 @@
+flask
+PyGithub
+aws_lambda_wsgi
