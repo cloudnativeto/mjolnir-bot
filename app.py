@@ -107,8 +107,9 @@ def on_issue_comment_created(payload):
         issue.add_to_labels("type/faq")
     
     else:
-        if payload["sender"]["login"]!="mjolnir-bot":
+        if payload["sender"]["login"]!="mjolnir-bot" and payload["sender"]["login"]!=issue.user.login:
             issue.add_to_labels("status/replied") 
+            issue.remove_from_labels("status/wait-answer")
 
 
 @app.route('/')
