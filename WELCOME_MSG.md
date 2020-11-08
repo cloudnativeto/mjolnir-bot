@@ -2,8 +2,8 @@ Hello, 我是云原生社区机器人妙尔尼尔（Mjölnir)  @mjolnir-bot. 我
 
 你似乎没有使用我们社区任何模板的格式填写问题。为了给你最好的帮助，我们建议您使用其中一种 [templates](https://github.com/cloudnativeto).
 
-可以联系社区管委会或者SIG 核心人员,或者我的维护者:
-* @stevensu1977
+可以联系社区管委会 或者SIG 核心人员,或者我的维护者:
+* @rootsongjc , @stevensu1977
 
 如果我们在几个工作日内仍未回复你创建的issue，可以尝试以下方法:
 * 加入我们的微信群, [二维码](https://cloudnative.to/contact/qrcode.jpg) 或者 [联系我们](https://cloudnative.to/contact/).
